@@ -1,5 +1,3 @@
-# Exam_Protal
-Java +Angular+MySQL
 # Exam Portal 📝
 
 An online exam management system built using **Java**, **Spring Boot**, **Hibernate**, and **Angular**. This application allows students to take exams, view results, and track their progress while enabling administrators to manage exam questions, schedules, and users.
